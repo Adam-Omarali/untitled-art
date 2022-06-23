@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <p className=''>A blank canvas. Create what you want. More coming soon...</p>
       </header>
     </div>
   );
